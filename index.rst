@@ -17,10 +17,3 @@ Thanks for downloading Instant Tropical Fish! Instant Tropical Fish provides eve
    performance-and-optimization
    extras
    faqs
-	
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
